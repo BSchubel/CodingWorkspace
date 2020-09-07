@@ -7,5 +7,5 @@ def max_num(num1, num2, num3):
     else:
         return num3
 
-print(max_num(3, 4, 5))
+print(max_num(500, 7345, 56))
 #learning else-if statements in a function with comparison operators
