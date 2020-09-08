@@ -1,3 +1,8 @@
 Jim- Salesman
 Dwight - Salesman
 Pam - Receptionist
+Oscar - Accountant
+Kevin - Accountant
+Michael - Manager
+Toby - Human Resources
+Kelly - Customer Service
